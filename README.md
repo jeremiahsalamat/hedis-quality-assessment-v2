@@ -29,7 +29,7 @@ CBP is a bit of a special case. In MY 2025, NCQA added a new ECDS measure called
 ## Repo layout
 
 ```
-hedis_v2/
+hedis_quality_assessment_v2/
 ├── README.md
 ├── generate_data.py          # builds the synthetic dataset
 ├── validate_queries.py       # runs all 5 measures in DuckDB, prints scorecard
