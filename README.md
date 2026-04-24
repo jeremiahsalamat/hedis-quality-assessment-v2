@@ -58,17 +58,17 @@ python3 validate_queries.py   # runs all 5 measures and prints the scorecard
 
 ```
 CBP (Controlling High Blood Pressure)
-  Overall     denom= 529  num= 330  rate= 62.38%
-  Commercial  denom= 170  num= 110  rate= 64.71%
-  Medi-Cal    denom= 166  num= 103  rate= 62.05%
-  Medicare    denom= 124  num=  71  rate= 57.26%
-  Medi-Medi   denom=  44  num=  28  rate= 63.64%
-  Exchange    denom=  25  num=  18  rate= 72.00%
+  Overall     denom= 539  num= 333  rate= 61.78%
+  Commercial  denom= 172  num= 117  rate= 68.02%
+  Medi-Cal    denom= 186  num= 106  rate= 56.99%
+  Medicare    denom= 111  num=  65  rate= 58.56%
+  Medi-Medi   denom=  47  num=  29  rate= 61.70%
+  Exchange    denom=  23  num=  16  rate= 69.57%
 
-COL-E   denom=1222  num=619  rate=50.7%
-CCS-E   denom= 657  num=428  rate=65.1%
-EED     denom= 212  num=143  rate=67.5%
-AWV     denom= 852  num=478  rate=56.1%
+COL-E   denom=1225  num=591  rate=48.2%
+CCS-E   denom= 651  num=414  rate=63.6%
+EED     denom= 227  num=173  rate=76.2%
+AWV     denom= 849  num=459  rate=54.1%
 ```
 
 These rates line up with published national HEDIS averages (CBP 60-65%, COL-E 50-56%, CCS 65-70%).
