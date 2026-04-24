@@ -1,0 +1,165 @@
+measure_id,value_set_name,code_system,code,description
+COL-E,Colonoscopy,CPT,44388,Colonoscopy
+COL-E,Colonoscopy,CPT,44389,Colonoscopy
+COL-E,Colonoscopy,CPT,44392,Colonoscopy
+COL-E,Colonoscopy,CPT,44394,Colonoscopy
+COL-E,Colonoscopy,CPT,45378,Colonoscopy
+COL-E,Colonoscopy,CPT,45380,Colonoscopy
+COL-E,Colonoscopy,CPT,45384,Colonoscopy
+COL-E,Colonoscopy,CPT,45385,Colonoscopy
+COL-E,Colonoscopy,CPT,45388,Colonoscopy
+COL-E,FOBT/FIT,CPT,82270,Fecal occult blood test / FIT
+COL-E,FOBT/FIT,CPT,82274,Fecal occult blood test / FIT
+COL-E,sDNA-FIT,CPT,81528,Stool DNA with FIT (Cologuard)
+COL-E,Flexible Sigmoidoscopy,CPT,45330,Flexible sigmoidoscopy
+COL-E,Flexible Sigmoidoscopy,CPT,45331,Flexible sigmoidoscopy
+COL-E,Flexible Sigmoidoscopy,CPT,45333,Flexible sigmoidoscopy
+COL-E,Flexible Sigmoidoscopy,CPT,45338,Flexible sigmoidoscopy
+COL-E,Flexible Sigmoidoscopy,CPT,45346,Flexible sigmoidoscopy
+COL-E,CT Colonography,CPT,74261,CT colonography
+COL-E,CT Colonography,CPT,74262,CT colonography
+COL-E,CT Colonography,CPT,74263,CT colonography
+COL-E,FOBT/FIT Result,LOINC,12503-9,FOBT/FIT lab result
+COL-E,FOBT/FIT Result,LOINC,14563-1,FOBT/FIT lab result
+COL-E,FOBT/FIT Result,LOINC,14564-9,FOBT/FIT lab result
+COL-E,FOBT/FIT Result,LOINC,14565-6,FOBT/FIT lab result
+COL-E,sDNA-FIT Result,LOINC,77353-1,Cologuard lab result
+CCS-E,Cervical Cytology,CPT,88141,Pap cytology
+CCS-E,Cervical Cytology,CPT,88142,Pap cytology
+CCS-E,Cervical Cytology,CPT,88143,Pap cytology
+CCS-E,Cervical Cytology,CPT,88147,Pap cytology
+CCS-E,Cervical Cytology,CPT,88148,Pap cytology
+CCS-E,Cervical Cytology,CPT,88150,Pap cytology
+CCS-E,Cervical Cytology,CPT,88152,Pap cytology
+CCS-E,Cervical Cytology,CPT,88153,Pap cytology
+CCS-E,Cervical Cytology,CPT,88164,Pap cytology
+CCS-E,Cervical Cytology,CPT,88165,Pap cytology
+CCS-E,Cervical Cytology,CPT,88166,Pap cytology
+CCS-E,Cervical Cytology,CPT,88167,Pap cytology
+CCS-E,Cervical Cytology,CPT,88174,Pap cytology
+CCS-E,Cervical Cytology,CPT,88175,Pap cytology
+CCS-E,hrHPV Test,CPT,87624,High-risk HPV DNA test
+CCS-E,hrHPV Test,CPT,87625,High-risk HPV DNA test
+CCS-E,Cervical Cytology Result,LOINC,10524-7,Pap cytology result
+CCS-E,Cervical Cytology Result,LOINC,18500-9,Pap cytology result
+CCS-E,Cervical Cytology Result,LOINC,19762-4,Pap cytology result
+CCS-E,Cervical Cytology Result,LOINC,19764-0,Pap cytology result
+CCS-E,Cervical Cytology Result,LOINC,19765-7,Pap cytology result
+CCS-E,Cervical Cytology Result,LOINC,33717-0,Pap cytology result
+CCS-E,hrHPV Result,LOINC,59263-4,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,59264-2,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,71431-1,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,75694-0,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,77379-6,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,77399-4,HPV high-risk result
+CCS-E,hrHPV Result,LOINC,77400-0,HPV high-risk result
+CCS-E,Hysterectomy (Exclusion),CPT,51925,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,56308,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,57540,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,57545,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,57550,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,57555,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,57556,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58150,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58152,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58200,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58210,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58240,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58260,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58262,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58263,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58267,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58270,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58275,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58280,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58285,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58290,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58291,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58292,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58293,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58294,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58548,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58550,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58552,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58553,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58554,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58570,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58571,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58572,Hysterectomy procedure (denominator exclusion)
+CCS-E,Hysterectomy (Exclusion),CPT,58573,Hysterectomy procedure (denominator exclusion)
+CCS-E,Absence of Cervix (Exclusion),ICD-10,Z90.710,Absence of cervix dx (denominator exclusion)
+CCS-E,Absence of Cervix (Exclusion),ICD-10,Z90.712,Absence of cervix dx (denominator exclusion)
+CCS-E,Absence of Cervix (Exclusion),ICD-10,Q51.5,Absence of cervix dx (denominator exclusion)
+CBP,Essential Hypertension,ICD-10,I10,Essential hypertension dx
+CBP,Systolic BP,LOINC,8480-6,Systolic blood pressure
+CBP,Diastolic BP,LOINC,8462-4,Diastolic blood pressure
+CBP,BP CPT-II Sys <140,CPT-II,3074F,Systolic BP <140 (numerator)
+CBP,BP CPT-II Sys <140,CPT-II,3075F,Systolic BP <140 (numerator)
+CBP,BP CPT-II Dia <90,CPT-II,3078F,Diastolic BP <90 (numerator)
+CBP,BP CPT-II Dia <90,CPT-II,3079F,Diastolic BP <90 (numerator)
+EED,Diabetes Diagnosis,ICD-10,E11.9,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E11.65,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E11.21,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E11.22,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E10.9,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E11.40,Diabetes mellitus dx
+EED,Diabetes Diagnosis,ICD-10,E11.319,Diabetes mellitus dx
+EED,Retinal Eye Exam,CPT,67028,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67030,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67031,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67036,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67039,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67040,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67041,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67042,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67043,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67101,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67105,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67107,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67108,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67110,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67113,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67121,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67141,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67145,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67208,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67210,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67218,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67220,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67221,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67227,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,67228,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92002,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92004,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92012,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92014,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92018,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92019,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92134,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92201,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92202,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92225,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92226,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92227,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92228,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92229,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92230,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92235,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92240,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92250,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,92260,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99203,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99204,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99205,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99213,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99214,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99215,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99242,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99243,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99244,Retinal/dilated eye exam
+EED,Retinal Eye Exam,CPT,99245,Retinal/dilated eye exam
+EED,Negative Retinal Exam (Prior Year),CPT-II,2023F,"Dilated retinal eye exam interpreted, neg for retinopathy"
+AWV,Annual Wellness Visit,HCPCS,G0438,Medicare AWV
+AWV,Annual Wellness Visit,HCPCS,G0439,Medicare AWV
+AWV,Welcome to Medicare (IPPE),HCPCS,G0402,Initial preventive physical exam
+ALL,Hospice/Palliative (Exclusion),ICD-10,Z51.5,Encounter for palliative care

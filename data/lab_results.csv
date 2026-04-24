@@ -1,0 +1,709 @@
+lab_id,member_id,service_date,loinc_code,test_name,result_value,result_units
+LB00000001,MBR000002,2025-06-11,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000002,MBR000003,2025-08-29,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000003,MBR000005,2025-07-22,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000004,MBR000008,2021-07-30,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000005,MBR000012,2025-03-25,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000006,MBR000012,2024-08-02,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000007,MBR000017,2023-09-30,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000008,MBR000021,2025-09-16,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000009,MBR000023,2025-02-19,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000010,MBR000027,2025-07-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000011,MBR000028,2025-07-24,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000012,MBR000028,2021-03-01,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000013,MBR000029,2025-10-10,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000014,MBR000032,2025-12-02,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000015,MBR000038,2024-04-24,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000016,MBR000041,2023-05-13,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000017,MBR000046,2023-06-14,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000018,MBR000050,2025-12-01,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000019,MBR000053,2021-09-26,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000020,MBR000059,2024-02-20,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000021,MBR000065,2024-06-23,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000022,MBR000069,2025-01-31,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000023,MBR000070,2025-07-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000024,MBR000071,2024-02-10,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000025,MBR000076,2023-09-12,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000026,MBR000078,2025-12-05,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000027,MBR000079,2023-07-13,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000028,MBR000080,2025-03-28,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000029,MBR000086,2025-11-12,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000030,MBR000087,2025-11-25,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000031,MBR000092,2023-08-17,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000032,MBR000095,2021-11-26,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000033,MBR000101,2022-01-24,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000034,MBR000105,2024-01-10,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000035,MBR000106,2025-09-14,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000036,MBR000107,2025-07-21,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000037,MBR000108,2024-07-30,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000038,MBR000109,2023-09-10,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000039,MBR000110,2024-05-17,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000040,MBR000116,2025-08-23,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000041,MBR000117,2024-06-13,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000042,MBR000124,2025-09-09,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000043,MBR000125,2024-04-21,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000044,MBR000127,2025-11-10,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000045,MBR000136,2024-01-10,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000046,MBR000144,2025-10-18,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000047,MBR000150,2024-07-26,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000048,MBR000168,2025-02-13,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000049,MBR000170,2024-12-24,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000050,MBR000173,2025-05-08,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000051,MBR000175,2025-12-23,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000052,MBR000185,2025-06-18,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000053,MBR000189,2024-02-14,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000054,MBR000190,2023-11-21,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000055,MBR000192,2025-05-31,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000056,MBR000194,2025-05-30,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000057,MBR000197,2025-10-29,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000058,MBR000200,2025-09-12,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000059,MBR000202,2023-06-07,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000060,MBR000204,2025-07-22,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000061,MBR000208,2023-04-08,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000062,MBR000210,2025-10-28,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000063,MBR000215,2025-01-29,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000064,MBR000220,2023-10-08,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000065,MBR000222,2024-12-23,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000066,MBR000222,2025-05-08,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000067,MBR000224,2024-08-19,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000068,MBR000225,2025-11-10,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000069,MBR000227,2024-04-25,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000070,MBR000230,2025-07-30,33717-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000071,MBR000237,2021-05-02,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000072,MBR000238,2021-02-19,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000073,MBR000248,2025-05-04,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000074,MBR000251,2022-10-26,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000075,MBR000254,2023-05-18,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000076,MBR000258,2023-08-29,19762-4,Cervical cytology (Pap),LSIL,qualitative
+LB00000077,MBR000259,2024-08-08,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000078,MBR000260,2025-12-18,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000079,MBR000265,2021-03-23,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000080,MBR000266,2023-08-31,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000081,MBR000267,2025-09-20,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000082,MBR000268,2023-05-28,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000083,MBR000272,2023-06-21,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000084,MBR000274,2023-03-31,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000085,MBR000277,2025-07-31,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000086,MBR000283,2025-11-29,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000087,MBR000289,2025-11-15,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000088,MBR000292,2024-03-17,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000089,MBR000297,2023-08-20,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000090,MBR000299,2025-09-12,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000091,MBR000300,2023-04-20,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000092,MBR000316,2025-02-27,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000093,MBR000316,2022-04-25,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000094,MBR000326,2025-06-28,19762-4,Cervical cytology (Pap),LSIL,qualitative
+LB00000095,MBR000331,2024-01-24,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000096,MBR000335,2024-06-18,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000097,MBR000336,2025-09-14,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000098,MBR000336,2023-02-07,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000099,MBR000337,2025-10-09,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000100,MBR000341,2022-02-23,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000101,MBR000345,2025-04-08,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000102,MBR000352,2025-09-24,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000103,MBR000354,2023-02-27,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000104,MBR000360,2025-07-01,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000105,MBR000364,2023-02-13,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000106,MBR000369,2025-11-08,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000107,MBR000369,2022-01-17,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000108,MBR000372,2025-04-04,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000109,MBR000376,2021-11-16,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000110,MBR000378,2024-03-30,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000111,MBR000379,2023-11-25,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000112,MBR000392,2021-04-02,71431-1,HPV high-risk DNA,Positive,qualitative
+LB00000113,MBR000393,2025-02-06,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000114,MBR000397,2024-05-21,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000115,MBR000398,2025-10-28,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000116,MBR000399,2025-03-07,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000117,MBR000402,2023-07-10,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000118,MBR000413,2024-05-18,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000119,MBR000415,2025-06-13,75694-0,HPV high-risk DNA,Positive,qualitative
+LB00000120,MBR000416,2025-07-31,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000121,MBR000420,2021-05-22,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000122,MBR000421,2025-06-13,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000123,MBR000422,2025-05-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000124,MBR000426,2025-07-19,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000125,MBR000427,2025-11-10,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000126,MBR000433,2025-01-23,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000127,MBR000440,2025-09-19,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000128,MBR000441,2023-06-07,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000129,MBR000443,2024-05-19,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000130,MBR000447,2021-11-16,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000131,MBR000453,2024-05-10,33717-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000132,MBR000459,2023-04-23,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000133,MBR000461,2025-03-19,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000134,MBR000462,2025-07-01,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000135,MBR000463,2024-09-25,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000136,MBR000464,2021-04-13,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000137,MBR000466,2022-03-16,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000138,MBR000467,2021-11-28,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000139,MBR000469,2024-03-19,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000140,MBR000473,2023-12-21,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000141,MBR000474,2025-03-30,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000142,MBR000480,2025-10-03,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000143,MBR000483,2022-06-09,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000144,MBR000489,2024-09-08,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000145,MBR000490,2023-05-26,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000146,MBR000498,2025-01-30,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000147,MBR000503,2024-10-11,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000148,MBR000514,2025-08-12,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000149,MBR000524,2021-08-06,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000150,MBR000525,2021-03-11,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000151,MBR000527,2024-01-29,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000152,MBR000528,2023-02-22,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000153,MBR000530,2022-02-04,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000154,MBR000531,2023-08-28,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000155,MBR000535,2025-04-24,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000156,MBR000538,2025-01-14,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000157,MBR000540,2024-01-22,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000158,MBR000542,2025-12-12,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000159,MBR000543,2025-10-06,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000160,MBR000544,2025-09-14,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000161,MBR000548,2023-05-20,18500-9,Cervical cytology (Pap),ASC-US,qualitative
+LB00000162,MBR000551,2025-09-23,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000163,MBR000552,2023-11-13,10524-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000164,MBR000553,2024-08-02,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000165,MBR000554,2025-06-26,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000166,MBR000557,2023-12-28,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000167,MBR000564,2025-01-19,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000168,MBR000571,2025-09-13,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000169,MBR000573,2022-03-09,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000170,MBR000574,2025-07-25,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000171,MBR000578,2025-01-14,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000172,MBR000579,2025-05-11,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000173,MBR000582,2023-06-29,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000174,MBR000584,2024-02-14,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000175,MBR000588,2025-08-21,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000176,MBR000589,2023-04-04,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000177,MBR000596,2021-11-10,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000178,MBR000603,2024-08-11,59263-4,HPV high-risk DNA,Positive,qualitative
+LB00000179,MBR000610,2025-11-11,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000180,MBR000610,2021-08-30,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000181,MBR000617,2023-08-18,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000182,MBR000620,2025-09-30,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000183,MBR000630,2023-05-04,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000184,MBR000631,2025-05-01,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000185,MBR000633,2025-05-02,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000186,MBR000634,2022-10-10,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000187,MBR000640,2023-11-06,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000188,MBR000647,2024-01-11,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000189,MBR000653,2023-12-27,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000190,MBR000653,2025-04-05,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000191,MBR000656,2024-09-30,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000192,MBR000658,2025-02-02,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000193,MBR000663,2024-12-08,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000194,MBR000669,2025-05-03,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000195,MBR000670,2025-02-01,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000196,MBR000675,2025-06-15,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000197,MBR000677,2025-11-27,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000198,MBR000680,2025-10-12,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000199,MBR000680,2024-04-28,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000200,MBR000683,2024-07-09,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000201,MBR000685,2023-10-12,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000202,MBR000689,2023-08-30,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000203,MBR000692,2025-03-26,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000204,MBR000699,2021-08-08,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000205,MBR000705,2025-04-28,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000206,MBR000713,2024-12-07,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000207,MBR000714,2025-02-08,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000208,MBR000721,2025-02-21,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000209,MBR000722,2023-11-08,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000210,MBR000723,2025-10-23,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000211,MBR000723,2025-12-27,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000212,MBR000724,2024-09-23,33717-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000213,MBR000728,2025-05-21,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000214,MBR000735,2024-01-18,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000215,MBR000741,2025-05-21,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000216,MBR000749,2025-11-27,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000217,MBR000750,2024-03-03,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000218,MBR000751,2023-04-17,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000219,MBR000752,2023-08-09,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000220,MBR000753,2025-05-05,59264-2,HPV high-risk DNA,Positive,qualitative
+LB00000221,MBR000754,2024-05-26,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000222,MBR000755,2021-04-23,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000223,MBR000758,2025-01-04,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000224,MBR000760,2024-02-24,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000225,MBR000763,2023-08-19,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000226,MBR000769,2023-01-20,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000227,MBR000776,2024-04-04,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000228,MBR000778,2025-04-29,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000229,MBR000782,2023-07-16,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000230,MBR000788,2025-03-02,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000231,MBR000788,2025-04-30,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000232,MBR000795,2025-07-15,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000233,MBR000798,2021-04-22,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000234,MBR000802,2025-11-02,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000235,MBR000808,2025-08-04,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000236,MBR000809,2023-07-02,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000237,MBR000819,2024-01-17,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000238,MBR000827,2024-06-10,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000239,MBR000829,2021-08-15,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000240,MBR000830,2025-01-19,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000241,MBR000831,2023-06-13,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000242,MBR000839,2023-07-12,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000243,MBR000856,2023-07-18,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000244,MBR000858,2025-09-18,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000245,MBR000869,2022-09-08,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000246,MBR000870,2023-02-17,19762-4,Cervical cytology (Pap),LSIL,qualitative
+LB00000247,MBR000872,2024-03-15,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000248,MBR000878,2025-07-28,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000249,MBR000878,2021-07-12,59264-2,HPV high-risk DNA,Positive,qualitative
+LB00000250,MBR000882,2024-09-09,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000251,MBR000884,2025-01-22,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000252,MBR000891,2024-11-04,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000253,MBR000896,2021-10-03,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000254,MBR000900,2025-09-07,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000255,MBR000901,2024-10-16,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000256,MBR000903,2023-01-10,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000257,MBR000905,2025-12-11,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000258,MBR000906,2025-06-13,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000259,MBR000907,2023-01-07,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000260,MBR000920,2025-04-28,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000261,MBR000934,2025-12-27,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000262,MBR000935,2024-12-18,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000263,MBR000940,2025-06-24,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000264,MBR000945,2023-01-23,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000265,MBR000951,2025-02-12,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000266,MBR000957,2023-09-01,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000267,MBR000958,2023-07-01,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000268,MBR000961,2025-01-05,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000269,MBR000962,2022-11-07,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000270,MBR000966,2025-07-31,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000271,MBR000970,2025-04-29,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000272,MBR000974,2023-01-09,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000273,MBR000975,2022-09-17,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000274,MBR000978,2023-05-31,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000275,MBR000983,2023-03-21,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000276,MBR000992,2025-07-09,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000277,MBR000995,2025-04-13,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000278,MBR000996,2024-08-25,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000279,MBR001002,2024-07-05,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000280,MBR001014,2025-06-08,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000281,MBR001018,2025-11-01,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000282,MBR001021,2025-05-26,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000283,MBR001023,2024-04-13,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000284,MBR001024,2025-01-25,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000285,MBR001031,2024-03-19,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000286,MBR001032,2025-01-12,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000287,MBR001034,2025-07-26,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000288,MBR001036,2023-06-05,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000289,MBR001037,2025-06-04,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000290,MBR001037,2022-10-25,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000291,MBR001038,2023-08-23,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000292,MBR001044,2024-01-06,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000293,MBR001048,2025-12-23,18500-9,Cervical cytology (Pap),ASC-US,qualitative
+LB00000294,MBR001053,2023-10-21,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000295,MBR001055,2024-03-12,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000296,MBR001058,2025-04-21,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000297,MBR001065,2024-04-28,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000298,MBR001067,2025-05-06,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000299,MBR001067,2021-03-01,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000300,MBR001070,2023-08-12,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000301,MBR001074,2025-12-02,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000302,MBR001076,2025-01-13,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000303,MBR001077,2025-09-27,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000304,MBR001080,2024-01-19,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000305,MBR001081,2025-06-08,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000306,MBR001085,2023-04-19,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000307,MBR001087,2022-04-09,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000308,MBR001088,2023-04-19,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000309,MBR001089,2022-03-28,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000310,MBR001090,2024-09-18,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000311,MBR001095,2024-09-21,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000312,MBR001097,2022-09-17,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000313,MBR001101,2025-05-30,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000314,MBR001101,2023-02-01,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000315,MBR001106,2025-09-13,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000316,MBR001108,2025-06-12,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000317,MBR001110,2025-03-04,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000318,MBR001117,2024-08-31,10524-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000319,MBR001120,2023-07-08,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000320,MBR001121,2025-11-02,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000321,MBR001123,2024-05-26,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000322,MBR001124,2023-07-22,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000323,MBR001135,2025-04-05,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000324,MBR001136,2025-12-31,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000325,MBR001137,2022-10-09,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000326,MBR001155,2023-05-04,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000327,MBR001156,2025-01-11,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000328,MBR001158,2024-07-29,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000329,MBR001163,2025-04-07,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000330,MBR001166,2023-12-06,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000331,MBR001171,2022-02-04,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000332,MBR001172,2022-10-14,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000333,MBR001174,2023-08-13,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000334,MBR001176,2024-08-14,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000335,MBR001178,2024-02-14,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000336,MBR001179,2025-05-14,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000337,MBR001179,2023-08-03,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000338,MBR001190,2025-06-12,75694-0,HPV high-risk DNA,Positive,qualitative
+LB00000339,MBR001192,2023-11-24,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000340,MBR001193,2025-03-03,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000341,MBR001195,2023-01-21,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000342,MBR001197,2024-07-11,19762-4,Cervical cytology (Pap),LSIL,qualitative
+LB00000343,MBR001199,2024-09-17,19764-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000344,MBR001200,2023-03-16,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000345,MBR001205,2025-09-22,19764-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000346,MBR001208,2023-12-13,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000347,MBR001209,2024-02-29,19764-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000348,MBR001213,2025-11-11,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000349,MBR001215,2024-02-24,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000350,MBR001218,2025-02-25,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000351,MBR001220,2023-08-13,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000352,MBR001222,2025-02-21,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000353,MBR001231,2025-05-26,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000354,MBR001233,2025-08-24,59264-2,HPV high-risk DNA,Positive,qualitative
+LB00000355,MBR001236,2025-05-14,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000356,MBR001243,2021-07-25,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000357,MBR001251,2025-01-30,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000358,MBR001260,2025-12-11,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000359,MBR001261,2025-08-05,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000360,MBR001267,2024-09-04,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000361,MBR001268,2023-08-09,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000362,MBR001269,2021-09-26,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000363,MBR001270,2024-09-06,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000364,MBR001271,2025-03-11,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000365,MBR001272,2023-06-11,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000366,MBR001281,2024-01-05,59264-2,HPV high-risk DNA,Positive,qualitative
+LB00000367,MBR001282,2024-02-17,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000368,MBR001284,2023-02-26,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000369,MBR001292,2025-03-08,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000370,MBR001293,2025-09-03,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000371,MBR001297,2024-05-21,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000372,MBR001301,2024-01-17,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000373,MBR001308,2024-01-24,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000374,MBR001310,2025-08-24,71431-1,HPV high-risk DNA,Positive,qualitative
+LB00000375,MBR001311,2024-10-17,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000376,MBR001319,2025-01-16,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000377,MBR001327,2024-07-11,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000378,MBR001331,2025-10-31,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000379,MBR001332,2025-08-16,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000380,MBR001340,2025-10-06,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000381,MBR001342,2025-08-13,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000382,MBR001345,2024-12-14,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000383,MBR001345,2025-05-22,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000384,MBR001347,2025-12-07,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000385,MBR001359,2025-07-10,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000386,MBR001359,2021-07-12,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000387,MBR001360,2025-01-22,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000388,MBR001361,2023-04-05,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000389,MBR001367,2024-06-24,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000390,MBR001368,2025-03-28,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000391,MBR001370,2025-05-28,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000392,MBR001370,2024-02-17,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000393,MBR001372,2025-07-17,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000394,MBR001382,2025-03-11,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000395,MBR001383,2025-10-02,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000396,MBR001388,2024-11-22,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000397,MBR001392,2025-11-03,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000398,MBR001394,2025-07-21,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000399,MBR001396,2023-08-27,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000400,MBR001397,2023-02-06,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000401,MBR001401,2024-06-03,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000402,MBR001410,2024-11-15,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000403,MBR001412,2025-06-15,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000404,MBR001414,2025-03-30,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000405,MBR001417,2024-05-16,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000406,MBR001418,2025-07-29,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000407,MBR001419,2023-06-08,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000408,MBR001422,2025-03-17,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000409,MBR001426,2023-03-30,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000410,MBR001427,2025-09-30,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000411,MBR001429,2025-10-19,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000412,MBR001442,2025-06-22,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000413,MBR001442,2025-01-09,10524-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000414,MBR001447,2025-03-23,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000415,MBR001453,2023-08-11,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000416,MBR001454,2023-12-22,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000417,MBR001456,2025-05-22,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000418,MBR001460,2023-08-10,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000419,MBR001468,2025-01-29,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000420,MBR001471,2025-01-15,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000421,MBR001475,2023-03-17,75694-0,HPV high-risk DNA,Positive,qualitative
+LB00000422,MBR001478,2021-05-16,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000423,MBR001484,2025-06-22,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000424,MBR001495,2025-06-08,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000425,MBR001499,2024-10-31,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000426,MBR001500,2025-04-26,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000427,MBR001503,2025-04-21,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000428,MBR001505,2023-09-12,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000429,MBR001506,2024-09-28,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000430,MBR001507,2025-08-05,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000431,MBR001510,2024-04-02,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000432,MBR001518,2025-08-22,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000433,MBR001518,2021-02-03,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000434,MBR001526,2025-12-05,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000435,MBR001528,2025-05-08,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000436,MBR001529,2025-09-01,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000437,MBR001542,2024-02-23,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000438,MBR001545,2022-03-25,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000439,MBR001546,2024-10-15,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000440,MBR001547,2023-12-15,18500-9,Cervical cytology (Pap),ASC-US,qualitative
+LB00000441,MBR001552,2025-04-19,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000442,MBR001556,2023-06-14,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000443,MBR001557,2024-03-24,19762-4,Cervical cytology (Pap),LSIL,qualitative
+LB00000444,MBR001558,2024-03-19,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000445,MBR001559,2025-05-08,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000446,MBR001564,2025-01-21,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000447,MBR001568,2024-10-03,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000448,MBR001568,2021-12-31,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000449,MBR001574,2025-02-20,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000450,MBR001575,2022-07-27,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000451,MBR001582,2025-01-20,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000452,MBR001582,2024-09-12,19764-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000453,MBR001587,2023-12-10,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000454,MBR001588,2025-10-10,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000455,MBR001589,2025-06-07,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000456,MBR001590,2025-10-03,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000457,MBR001594,2022-11-19,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000458,MBR001595,2025-04-19,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000459,MBR001601,2025-10-14,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000460,MBR001605,2024-11-08,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000461,MBR001606,2025-08-30,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000462,MBR001606,2022-06-08,59263-4,HPV high-risk DNA,Positive,qualitative
+LB00000463,MBR001615,2025-10-26,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000464,MBR001616,2023-01-06,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000465,MBR001617,2025-01-04,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000466,MBR001623,2025-10-21,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000467,MBR001626,2025-03-07,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000468,MBR001629,2025-03-13,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000469,MBR001632,2025-07-05,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000470,MBR001636,2025-09-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000471,MBR001638,2025-03-18,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000472,MBR001645,2025-01-29,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000473,MBR001647,2025-12-01,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000474,MBR001650,2023-12-15,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000475,MBR001656,2023-12-01,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000476,MBR001658,2025-02-16,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000477,MBR001659,2025-06-05,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000478,MBR001662,2024-12-05,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000479,MBR001664,2025-08-31,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000480,MBR001666,2023-03-31,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000481,MBR001667,2025-01-01,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000482,MBR001670,2023-04-11,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000483,MBR001675,2024-11-29,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000484,MBR001676,2024-01-29,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000485,MBR001681,2025-06-19,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000486,MBR001693,2021-08-21,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000487,MBR001695,2023-06-11,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000488,MBR001709,2023-05-19,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000489,MBR001712,2025-09-04,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000490,MBR001717,2025-07-24,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000491,MBR001720,2024-07-23,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000492,MBR001724,2025-11-04,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000493,MBR001726,2024-01-13,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000494,MBR001730,2024-06-29,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000495,MBR001735,2025-07-22,14565-6,Fecal Immunochemical Test,Positive,qualitative
+LB00000496,MBR001739,2023-11-08,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000497,MBR001745,2023-10-19,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000498,MBR001748,2023-09-09,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000499,MBR001751,2025-11-01,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000500,MBR001752,2025-09-27,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000501,MBR001753,2023-12-06,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000502,MBR001758,2024-02-02,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000503,MBR001759,2025-06-08,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000504,MBR001761,2025-11-01,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000505,MBR001763,2025-11-26,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000506,MBR001772,2024-08-14,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000507,MBR001773,2021-06-28,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000508,MBR001777,2023-05-11,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000509,MBR001778,2025-03-30,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000510,MBR001781,2025-09-08,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000511,MBR001788,2025-02-26,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000512,MBR001796,2024-11-25,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000513,MBR001797,2023-09-24,18500-9,Cervical cytology (Pap),LSIL,qualitative
+LB00000514,MBR001804,2023-05-10,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000515,MBR001811,2025-04-19,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000516,MBR001813,2023-05-07,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000517,MBR001817,2025-08-26,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000518,MBR001817,2023-11-23,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000519,MBR001822,2025-12-23,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000520,MBR001823,2021-10-03,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000521,MBR001824,2025-11-16,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000522,MBR001824,2023-07-20,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000523,MBR001825,2025-12-07,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000524,MBR001858,2025-08-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000525,MBR001860,2025-09-30,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000526,MBR001860,2023-08-03,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000527,MBR001868,2023-12-17,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000528,MBR001873,2025-03-12,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000529,MBR001873,2022-09-14,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000530,MBR001878,2023-12-14,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000531,MBR001888,2024-10-09,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000532,MBR001898,2022-10-10,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000533,MBR001901,2023-05-28,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000534,MBR001905,2024-01-29,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000535,MBR001908,2025-09-09,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000536,MBR001908,2025-02-14,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000537,MBR001920,2024-01-11,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000538,MBR001927,2023-08-04,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000539,MBR001927,2022-08-18,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000540,MBR001929,2023-11-25,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000541,MBR001929,2021-04-24,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000542,MBR001931,2022-03-31,59263-4,HPV high-risk DNA,Positive,qualitative
+LB00000543,MBR001932,2023-09-07,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000544,MBR001933,2022-09-12,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000545,MBR001936,2025-05-11,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000546,MBR001943,2025-02-01,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000547,MBR001944,2023-04-03,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000548,MBR001947,2021-12-25,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000549,MBR001952,2022-04-26,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000550,MBR001957,2025-02-14,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000551,MBR001959,2025-08-26,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000552,MBR001968,2023-01-09,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000553,MBR001970,2022-10-18,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000554,MBR001972,2025-01-06,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000555,MBR001972,2025-05-13,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000556,MBR001974,2025-01-20,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000557,MBR001984,2024-12-27,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000558,MBR001986,2024-05-21,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000559,MBR001987,2025-01-31,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000560,MBR001988,2023-11-03,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000561,MBR001989,2022-07-02,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000562,MBR001990,2024-07-14,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000563,MBR001993,2025-01-14,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000564,MBR001995,2025-09-21,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000565,MBR002000,2025-04-07,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000566,MBR002006,2021-07-11,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000567,MBR002010,2023-08-16,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000568,MBR002015,2025-07-17,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000569,MBR002015,2023-11-08,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000570,MBR002021,2025-02-01,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000571,MBR002024,2024-10-04,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000572,MBR002025,2023-07-28,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000573,MBR002026,2025-12-30,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000574,MBR002037,2024-06-07,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000575,MBR002045,2025-01-02,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000576,MBR002048,2023-07-28,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000577,MBR002052,2024-04-26,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000578,MBR002053,2025-02-02,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000579,MBR002056,2025-06-19,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000580,MBR002056,2024-07-26,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000581,MBR002058,2023-08-05,18500-9,Cervical cytology (Pap),ASC-US,qualitative
+LB00000582,MBR002063,2024-10-12,71431-1,HPV high-risk DNA,Positive,qualitative
+LB00000583,MBR002064,2025-07-09,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000584,MBR002084,2025-12-09,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000585,MBR002085,2025-11-04,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000586,MBR002089,2025-10-05,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000587,MBR002091,2023-10-25,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000588,MBR002095,2024-09-15,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000589,MBR002102,2024-11-20,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000590,MBR002104,2023-03-04,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000591,MBR002104,2025-05-28,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000592,MBR002111,2024-09-07,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000593,MBR002127,2025-07-19,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000594,MBR002139,2025-12-12,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000595,MBR002140,2023-06-30,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000596,MBR002142,2024-08-17,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000597,MBR002143,2024-07-29,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000598,MBR002158,2025-07-23,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000599,MBR002159,2025-11-10,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000600,MBR002166,2025-05-29,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000601,MBR002172,2025-07-29,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000602,MBR002177,2023-11-20,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000603,MBR002180,2024-06-29,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000604,MBR002180,2021-09-03,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000605,MBR002184,2025-03-14,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000606,MBR002184,2025-08-04,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000607,MBR002187,2022-11-13,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000608,MBR002189,2023-05-03,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000609,MBR002190,2024-08-24,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000610,MBR002200,2025-01-29,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000611,MBR002200,2025-02-10,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000612,MBR002202,2022-12-02,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000613,MBR002203,2022-09-04,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000614,MBR002208,2025-08-31,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000615,MBR002211,2024-05-13,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000616,MBR002213,2025-05-06,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000617,MBR002215,2025-04-11,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000618,MBR002217,2024-09-13,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000619,MBR002219,2023-04-21,33717-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000620,MBR002221,2022-12-12,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000621,MBR002223,2023-02-07,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000622,MBR002225,2025-03-03,19764-0,Cervical cytology (Pap),ASC-US,qualitative
+LB00000623,MBR002227,2025-08-24,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000624,MBR002231,2022-11-24,59264-2,HPV high-risk DNA,Positive,qualitative
+LB00000625,MBR002232,2025-02-19,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000626,MBR002232,2023-12-14,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000627,MBR002236,2025-05-05,77400-0,HPV high-risk DNA,Negative,qualitative
+LB00000628,MBR002238,2024-05-11,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000629,MBR002239,2025-06-24,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000630,MBR002241,2021-06-04,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000631,MBR002243,2023-07-04,19762-4,Cervical cytology (Pap),ASC-US,qualitative
+LB00000632,MBR002248,2022-05-02,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000633,MBR002253,2023-06-19,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000634,MBR002256,2025-08-05,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000635,MBR002261,2025-08-29,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000636,MBR002261,2025-05-03,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000637,MBR002262,2025-12-19,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000638,MBR002264,2022-03-17,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000639,MBR002265,2025-01-18,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000640,MBR002269,2025-03-18,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000641,MBR002269,2024-10-10,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000642,MBR002271,2025-02-23,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000643,MBR002288,2025-08-15,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000644,MBR002289,2025-03-28,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000645,MBR002289,2024-03-25,77379-6,HPV high-risk DNA,Negative,qualitative
+LB00000646,MBR002294,2025-01-02,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000647,MBR002299,2023-03-12,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000648,MBR002303,2023-10-29,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000649,MBR002305,2023-07-11,10524-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000650,MBR002311,2021-06-21,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000651,MBR002312,2025-11-26,14564-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000652,MBR002317,2025-09-09,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000653,MBR002319,2024-04-10,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000654,MBR002319,2025-11-02,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000655,MBR002320,2024-09-15,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000656,MBR002322,2024-07-01,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000657,MBR002323,2025-02-10,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000658,MBR002325,2025-10-02,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000659,MBR002325,2021-02-19,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000660,MBR002328,2025-04-24,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000661,MBR002331,2025-04-30,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000662,MBR002335,2025-12-13,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000663,MBR002339,2025-04-23,12503-9,Fecal Immunochemical Test,Positive,qualitative
+LB00000664,MBR002341,2025-07-14,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000665,MBR002348,2025-04-18,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000666,MBR002351,2025-06-02,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000667,MBR002353,2025-07-11,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000668,MBR002357,2025-08-22,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000669,MBR002358,2025-01-13,14563-1,Fecal Immunochemical Test,Positive,qualitative
+LB00000670,MBR002366,2025-05-24,77400-0,HPV high-risk DNA,Positive,qualitative
+LB00000671,MBR002369,2024-05-10,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000672,MBR002370,2024-09-03,19764-0,Cervical cytology (Pap),NILM,qualitative
+LB00000673,MBR002371,2025-12-22,18500-9,Cervical cytology (Pap),ASC-US,qualitative
+LB00000674,MBR002378,2021-06-17,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000675,MBR002380,2023-04-24,33717-0,Cervical cytology (Pap),NILM,qualitative
+LB00000676,MBR002382,2025-11-28,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000677,MBR002382,2023-06-27,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000678,MBR002385,2025-05-06,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000679,MBR002388,2023-02-10,19762-4,Cervical cytology (Pap),NILM,qualitative
+LB00000680,MBR002389,2025-08-08,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000681,MBR002389,2024-03-27,75694-0,HPV high-risk DNA,Negative,qualitative
+LB00000682,MBR002399,2024-11-11,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000683,MBR002401,2021-01-04,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000684,MBR002407,2024-08-07,77353-1,sDNA-FIT (Cologuard),Positive,qualitative
+LB00000685,MBR002412,2023-04-23,10524-7,Cervical cytology (Pap),NILM,qualitative
+LB00000686,MBR002431,2023-08-04,19765-7,Cervical cytology (Pap),ASC-US,qualitative
+LB00000687,MBR002432,2025-05-23,77379-6,HPV high-risk DNA,Positive,qualitative
+LB00000688,MBR002435,2024-12-06,19765-7,Cervical cytology (Pap),NILM,qualitative
+LB00000689,MBR002436,2024-08-17,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000690,MBR002436,2025-05-18,19764-0,Cervical cytology (Pap),LSIL,qualitative
+LB00000691,MBR002443,2025-07-14,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000692,MBR002444,2021-02-12,59263-4,HPV high-risk DNA,Negative,qualitative
+LB00000693,MBR002449,2025-10-27,14565-6,Fecal Immunochemical Test,Negative,qualitative
+LB00000694,MBR002450,2025-08-07,12503-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000695,MBR002455,2024-02-04,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000696,MBR002457,2024-01-09,77399-4,HPV high-risk DNA,Negative,qualitative
+LB00000697,MBR002459,2023-02-11,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000698,MBR002468,2025-10-19,71431-1,HPV high-risk DNA,Negative,qualitative
+LB00000699,MBR002469,2021-11-25,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000700,MBR002473,2025-05-28,14563-1,Fecal Immunochemical Test,Negative,qualitative
+LB00000701,MBR002478,2023-07-04,18500-9,Cervical cytology (Pap),NILM,qualitative
+LB00000702,MBR002481,2023-07-23,59264-2,HPV high-risk DNA,Negative,qualitative
+LB00000703,MBR002485,2025-06-08,19765-7,Cervical cytology (Pap),LSIL,qualitative
+LB00000704,MBR002490,2024-05-13,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000705,MBR002493,2022-11-12,77399-4,HPV high-risk DNA,Positive,qualitative
+LB00000706,MBR002498,2025-11-11,14564-9,Fecal Immunochemical Test,Negative,qualitative
+LB00000707,MBR002499,2024-04-14,77353-1,sDNA-FIT (Cologuard),Negative,qualitative
+LB00000708,MBR002500,2025-03-02,10524-7,Cervical cytology (Pap),LSIL,qualitative

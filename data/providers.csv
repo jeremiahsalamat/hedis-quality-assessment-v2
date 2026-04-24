@@ -1,0 +1,51 @@
+provider_id,npi,first_name,last_name,specialty,provider_type,active_flag
+PRV0001,1362950628,Maria,Williams,Internal Medicine,PCP,Y
+PRV0002,1826600539,Jennifer,Patel,Gastroenterology,Specialist,Y
+PRV0003,1553035110,Priya,Lee,Endocrinology,Specialist,Y
+PRV0004,1334760738,Maria,Johnson,Family Medicine,PCP,Y
+PRV0005,1128492780,James,Sharma,Gastroenterology,Specialist,Y
+PRV0006,1550455977,Emily,Thompson,Endocrinology,Specialist,Y
+PRV0007,1398704996,David,Lee,Gastroenterology,Specialist,Y
+PRV0008,1849621470,John,Smith,Family Medicine,PCP,Y
+PRV0009,1266944844,Anna,Williams,Optometry,Specialist,Y
+PRV0010,1209747451,John,Hernandez,Gastroenterology,Specialist,Y
+PRV0011,1485451171,Olivia,Patel,Internal Medicine,PCP,Y
+PRV0012,1966647391,Robert,Williams,Ophthalmology,Specialist,Y
+PRV0013,1675770529,Ahmed,Davis,Family Medicine,PCP,Y
+PRV0014,1692749116,Olivia,Johnson,Internal Medicine,PCP,Y
+PRV0015,1488302652,Noah,Sharma,OB/GYN,Specialist,Y
+PRV0016,1149203558,Juan,Johnson,Gastroenterology,Specialist,Y
+PRV0017,1185675980,John,Singh,Gastroenterology,Specialist,Y
+PRV0018,1508157429,Liam,Patel,Gastroenterology,Specialist,Y
+PRV0019,1274648506,David,Martinez,OB/GYN,Specialist,Y
+PRV0020,1819595113,Grace,Lopez,Ophthalmology,Specialist,Y
+PRV0021,1754049436,Juan,Johnson,OB/GYN,Specialist,Y
+PRV0022,1275452091,Carlos,Chen,Geriatrics,PCP,Y
+PRV0023,1787194506,Olivia,Williams,Cardiology,Specialist,Y
+PRV0024,1924970419,Mei,Hernandez,Endocrinology,Specialist,Y
+PRV0025,1964411347,Mei,Garcia,Family Medicine,PCP,Y
+PRV0026,1171069472,Olivia,Williams,Ophthalmology,Specialist,Y
+PRV0027,1328306011,Hiroshi,Hernandez,Gastroenterology,Specialist,Y
+PRV0028,1253407200,Olivia,Davis,Cardiology,Specialist,Y
+PRV0029,1899925830,Jennifer,Chen,OB/GYN,Specialist,Y
+PRV0030,1902099969,Carlos,Williams,Endocrinology,Specialist,Y
+PRV0031,1488690725,Hiroshi,Wong,Optometry,Specialist,Y
+PRV0032,1629908599,Jennifer,Anderson,Gastroenterology,Specialist,Y
+PRV0033,1217734861,John,Garcia,Internal Medicine,PCP,Y
+PRV0034,1950488739,Daniel,Smith,Geriatrics,PCP,Y
+PRV0035,1513140753,Robert,Johnson,Optometry,Specialist,Y
+PRV0036,1668132202,Robert,Davis,Optometry,Specialist,Y
+PRV0037,1830448745,Carlos,Nguyen,OB/GYN,Specialist,Y
+PRV0038,1906248900,Wei,Thompson,Internal Medicine,PCP,Y
+PRV0039,1219778234,John,Hernandez,OB/GYN,Specialist,Y
+PRV0040,1587182120,Sophia,Smith,OB/GYN,Specialist,Y
+PRV0041,1637500247,Ahmed,Williams,Family Medicine,PCP,Y
+PRV0042,1771410971,James,Patel,Geriatrics,PCP,Y
+PRV0043,1753876785,Noah,Anderson,OB/GYN,Specialist,Y
+PRV0044,1918739736,Jennifer,Martinez,Gastroenterology,Specialist,Y
+PRV0045,1100614068,Carlos,Anderson,Geriatrics,PCP,Y
+PRV0046,1220117054,Michael,Nguyen,Ophthalmology,Specialist,Y
+PRV0047,1357109965,Noah,Singh,Ophthalmology,Specialist,Y
+PRV0048,1184564737,Mei,Lee,Family Medicine,PCP,Y
+PRV0049,1976198296,Ahmed,Brown,Internal Medicine,PCP,Y
+PRV0050,1922308461,John,Thompson,Internal Medicine,PCP,Y
